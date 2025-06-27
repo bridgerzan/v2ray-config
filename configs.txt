@@ -1,4 +1,4 @@
-#profile-title: CQ0KYnJpZGdlemFu8J+Xo++4jyB8IGZyZWUgdGVzdGVkIGNvbmZpZ/CfmYwgfCBiMm4uaXIvYnJpZGdlemFuLWNvbmZpZyDwn5qADQo=
+#profile-title: bridgezan🗣️ | free tested config🙌 | b2n.ir/bridgezan-config 🚀
 #subscription-userinfo: upload=29; download=12; total=507374182000; expire=2546249531
 #support-url: https://github.com/bridgerzan/v2ray-config
 #profile-web-page-url: https://github.com/bridgerzan/v2ray-config
