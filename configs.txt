@@ -1,5 +1,5 @@
 #profile-title: CQ0KYnJpZGdlemFu8J+Xo++4jyB8IGZyZWUgdGVzdGVkIGNvbmZpZ/CfmYwgfCBiMm4uaXIvYnJpZGdlemFuLWNvbmZpZyDwn5qADQo=
-#subscription-userinfo: upload=29; download=12; total=1073741824; expire=2546249531
+#subscription-userinfo: upload=29; download=12; total=507374182000; expire=2546249531
 #support-url: https://github.com/bridgerzan/v2ray-config
 #profile-web-page-url: https://github.com/bridgerzan/v2ray-config
 vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@app.chandplus.com:443?encryption=none&security=tls&sni=app.chandplus.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=random&allowInsecure=1&type=tcp&headerType=none#🛡️ | b2n.ir/bridgezan-config | 1
