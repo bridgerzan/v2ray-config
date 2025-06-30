@@ -1,52 +1,63 @@
 # v2ray-config
 
-# 🌐 V2Ray & Hiddify Config Collection - تست‌شده و بروزرسانی‌شده
+# 🌐 V2Ray & Hiddify Config Collection | مجموعه کانفیگ‌های تست‌شده وی‌تو‌ری
 
-🔎 مجموعه‌ای از کانفیگ‌های تست‌شده V2Ray (VLESS / VMess / Hiddify) مناسب برای کاربران ایرانی با پینگ مناسب، سرعت عالی، و بررسی‌شده روی ISPهای مختلف.
-
----
-
-## ✅ ویژگی‌ها
-
-- 🧪 کانفیگ‌های تست‌شده و آماده استفاده
-- 🔄 بروزرسانی دستی روزانه (هر روز یکبار)
-- ⭐ کانفیگ‌های ستاره‌دار → ۱۰۰٪ سالم و با پینگ پایین
-- 📊 مناسب برای کاربران اینترنت ایران:
-
-| اپراتور     | سرعت  |
-|-------------|--------|
-| مخابرات     | عالی ✅ |
-| همراه اول   | عالی ✅ |
-| رایتل       | خوب 👍 |
-| ایرانسل     | خوب 👍 |
-
-- 📈 پینگ کانفیگ‌ها بین **80ms تا 400ms**
-- 🗂️ فرمت‌ها: VLESS، VMess، Hiddify (سازگار با تمام کلاینت‌ها)
+🔎 This repository provides daily-tested V2Ray configs (VLESS / VMess / Hiddify) for Iranian users.  
+🔄 این پروژه شامل کانفیگ‌های تست‌شده V2Ray با پینگ پایین، سرعت بالا و بروزرسانی روزانه است.
 
 ---
 
-## 📥 دریافت کانفیگ‌ها
+## 📌 Table of Contents | فهرست
 
-📁 آخرین فایل‌ها در پوشه [`configs/`](configs/) قرار دارند:
-
-- [✅ config_vmess_tested.json](configs/config_vmess_tested.json)
-- [✅ config_vless_tested.json](configs/config_vless_tested.json)
-- [⭐ recommended_configs.json](configs/recommended_configs.json)
-
----
-
-## 📸 پیش‌نمایش
-
-> در اینجا می‌توانید تصویری از نحوه استفاده یا محیط پروژه قرار دهید  
-> مثال (در صورت وجود تصویر):
->
-> ![Preview](images/preview.gif)
+- [Features | ویژگی‌ها](#features--ویژگیها)
+- [Test Results | نتایج تست اینترنت](#test-results--نتایج-تست-اینترنت)
+- [Download Configs | دریافت کانفیگ‌ها](#download-configs--دریافت-کانفیگها)
+- [Preview | پیش‌نمایش](#preview--پیشنمایش)
+- [How to Use | نحوه استفاده](#how-to-use--نحوه-استفاده)
+- [Keywords | کلمات کلیدی (SEO)](#keywords--کلمات-کلیدی-seo)
+- [Last Update | آخرین بروزرسانی](#last-update--آخرین-بروزرسانی)
+- [Contribute | همکاری](#contribute--همکاری)
 
 ---
 
-## ⚙️ نحوه استفاده
+## ✨ Features | ویژگی‌ها
+
+- ✅ Daily updated configs | بروزرسانی دستی روزانه
+- 🧪 Fully tested VLESS / VMess / Hiddify links | تست کامل لینک‌ها
+- ⭐ Starred configs are **high quality and verified** | کانفیگ‌های دارای ⭐ کاملاً سالم و تست‌شده هستند
+- ⚡ Latency: 80ms - 400ms | تاخیر بین ۸۰ تا ۴۰۰ میلی‌ثانیه
+- 📦 Exportable to all clients | خروجی مناسب برای تمام نرم‌افزارها (Hiddify، v2rayN، V2Box، etc.)
+
+---
+
+## 📊 Test Results | نتایج تست اینترنت
+
+All configs are tested on major ISPs in Iran:
+
+| Provider | Speed  | توضیح |
+|----------|--------|--------|
+| TCI      | ✅ Excellent | مخابرات – عالی |
+| MCI      | ✅ Excellent | همراه اول – عالی |
+| Rightel  | 👍 Good     | رایتل – خوب |
+| Irancell | 👍 Good     | ایرانسل – خوب |
+
+> Starred configs ⭐ have passed high-speed + low-ping tests on all networks above.
+
+---
+
+## 📥 Download Configs | دریافت کانفیگ‌ها
+
+📁 See the [`configs/`](configs/) directory for the latest tested configs:
+
+- [✅ VMess Configs](configs/config_vmess_tested.json)
+- [✅ VLESS Configs](configs/config_vless_tested.json)
+- [⭐ Recommended Only](configs/recommended_configs.json)
+
+---
+
+## 📸 Preview | پیش‌نمایش
+
+> You can include a screenshot or animated GIF here.
 
 ```bash
-git clone https://github.com/your-username/v2ray-config
-cd v2ray-config
-python main.py
+python main.py --test
