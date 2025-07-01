@@ -23,6 +23,7 @@
 - [Last Update | آخرین بروزرسانی](#last-update--آخرین-بروزرسانی)
 
 ---
+## ⚙️ راهنمای سریع استفاده | ⚙️ Quick Start
 
 ## 📥 Download Configs | دریافت کانفیگ‌ها
 1 - 📦 copy and paste this code on your vpn | کد زیر رو کپی پیست کنید توی وی پی انتون
@@ -64,7 +65,21 @@ All configs are tested on major ISPs in Iran:
 
 ![images](https://raw.githubusercontent.com/bridgerzan/v2ray-config/main/image.png)
 
+## ❓ سوالات متداول | ❓ FAQ
 
+**آیا این لینک‌ها همیشگی هستن؟**  
+خیر، بعضیا از کار می‌افتن ولی ما هر روز آپدیت می‌کنیم ✅ |  
+**Are links permanent?**  
+No, some expire but we update daily ✅
+
+**چجوری مطمئن شم سالمه؟**  
+اونایی که ⭐ دارن تست شدن کامل |  
+**How to know if it works?**  
+The ones with ⭐ are fully tested. 
+
+## 📅 آخرین آپدیت | 📅 Last Update
+
+🗓️ `آخرین اپدیت` | Updated manually every day 🔁
 
 
 
