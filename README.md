@@ -58,7 +58,7 @@ https://raw.githubusercontent.com/bridgerzan/v2ray-config/refs/heads/main/config
 
 ## 📅 آخرین آپدیت
 
-🗓️ `2025-07-01 12:13:01`
+🗓️ `2025-07-01 12:13:38`
 
 ## 🔍 کلمات (SEO)
 
