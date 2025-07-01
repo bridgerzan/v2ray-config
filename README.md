@@ -16,7 +16,6 @@
 - [How to Use | نحوه استفاده](#how-to-use--نحوه-استفاده)
 - [Keywords | کلمات کلیدی (SEO)](#keywords--کلمات-کلیدی-seo)
 - [Last Update | آخرین بروزرسانی](#last-update--آخرین-بروزرسانی)
-- [Contribute | همکاری](#contribute--همکاری)
 
 ---
 
@@ -56,9 +55,9 @@ All configs are tested on major ISPs in Iran:
 
 
 
-## 📸 Preview | پیش‌نمایش
+## 📸 Preview | کانفیگ ها
 
-![نمایش کانفیگ‌ها](https://raw.githubusercontent.com/bridgerzan/v2ray-config/main/image.png)
+![images](https://raw.githubusercontent.com/bridgerzan/v2ray-config/main/image.png)
 
 
 
