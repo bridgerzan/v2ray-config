@@ -62,3 +62,43 @@ All configs are tested on major ISPs in Iran:
 
 
 
+
+## 🔍 کلمات (SEO)
+
+**فارسی:**
+وی تو ری رایگان
+وی تو ری برای ایران
+کانفیگ v2ray تست شده
+فیلترشکن بدون قطعی
+کانفیگ vless سالم
+لینک vmess پرسرعت
+کانفیگ hiddify برای همراه اول
+وی تو ری مخابرات
+v2ray برای ایرانسل
+کانفیگ قوی وی تو ری
+بهترین فیلترشکن ایرانی
+فیلترشکن مخصوص کلش
+فیلترشکن مخصوص پابجی
+فیلترشکن بدون پینگ بالا
+v2ray کاملاً تست‌شده
+v2ray کم‌پینگ برای گیم
+کانفیگ پرسرعت v2ray
+config v2ray سالم رایگان
+## 🔍 (SEO)
+v2ray config for iran
+free v2ray server
+tested vmess config
+fast vless config
+low ping v2ray
+v2ray for gaming
+clash hiddify config
+best v2ray 2025
+hiddify iran working
+v2ray telecom iran
+working v2ray configs github
+auto updated v2ray config
+v2ray ping checker
+v2ray for iran user
+best v2ray for mobile
+
+
