@@ -58,7 +58,7 @@ All configs are tested on major ISPs in Iran:
 
 ## 📸 Preview | پیش‌نمایش
 
-> ![image(https://github.com/bridgerzan/v2ray-config/blob/main/image.png)
+![نمایش کانفیگ‌ها](https://raw.githubusercontent.com/bridgerzan/v2ray-config/main/image.png)
 
 
 
