@@ -20,12 +20,23 @@
 
 ---
 
+## 📥 Download Configs | دریافت کانفیگ‌ها
+1 - 📦 copy and paste this code on your vpn | کد زیر رو کپی پیست کنید توی وی پی انتون
+```bash
+https://raw.githubusercontent.com/bridgerzan/v2ray-config/refs/heads/main/configs.txt
+```
+2 -  Download Configs | دانلود کانفبگ ها
+- [⭐ Configs](configs.txt)
+
+  > we recommend the first method | روش اول رو پیشنهاد میکنیم بهتون
+---
+
 ## ✨ Features | ویژگی‌ها
 
 - ✅ Daily updated configs | بروزرسانی دستی روزانه
 - 🧪 Fully tested VLESS / VMess / Hiddify links | تست کامل لینک‌ها
 - ⭐ Starred configs are **high quality and verified** | کانفیگ‌های دارای ⭐ کاملاً سالم و تست‌شده هستند
-- ⚡ Latency: 80ms - 400ms | تاخیر بین ۸۰ تا ۴۰۰ میلی‌ثانیه
+- ⚡ Latency: 80ms - 400ms | پینگ بین 40 تا 400 هست
 - 📦 Exportable to all clients | خروجی مناسب برای تمام نرم‌افزارها (Hiddify، v2rayN، V2Box، etc.)
 
 ---
@@ -40,24 +51,15 @@ All configs are tested on major ISPs in Iran:
 | MCI      | ✅ Excellent | همراه اول – عالی |
 | Rightel  | 👍 Good     | رایتل – خوب |
 | Irancell | 👍 Good     | ایرانسل – خوب |
-
+> کانفیگ هایی که ⭐ دارن پر سرعت تر هستن و تست شده هستن (برای مخابرات)
 > Starred configs ⭐ have passed high-speed + low-ping tests on all networks above.
 
----
 
-## 📥 Download Configs | دریافت کانفیگ‌ها
-
-📁 See the [`configs/`](configs/) directory for the latest tested configs:
-
-- [✅ VMess Configs](configs/config_vmess_tested.json)
-- [✅ VLESS Configs](configs/config_vless_tested.json)
-- [⭐ Recommended Only](configs/recommended_configs.json)
-
----
 
 ## 📸 Preview | پیش‌نمایش
 
-> You can include a screenshot or animated GIF here.
+> https://github.com/bridgerzan/v2ray-config/blob/main/image.png
 
-```bash
-python main.py --test
+
+
+
