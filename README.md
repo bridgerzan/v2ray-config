@@ -5,6 +5,11 @@
 🔎 This repository provides daily-tested V2Ray configs (VLESS / VMess / Hiddify) for Iranian users.  
 🔄 این پروژه شامل کانفیگ‌های تست‌شده V2Ray با پینگ پایین، سرعت بالا و بروزرسانی روزانه است.
 
+![Update](https://img.shields.io/badge/Updated-Daily-success?style=flat-square)
+![Configs](https://img.shields.io/badge/Configs-Tested-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Stable-%E2%AD%90-green?style=flat-square)
+
+
 ---
 
 ## 📌 Table of Contents | فهرست
