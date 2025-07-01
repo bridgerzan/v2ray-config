@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/bridgerzan/v2ray-config/refs/heads/main/config
 ```
 2 - یا مستقیم دانلود کن:
 - [⭐ Configs](configs.txt)
-
+ > recommanded use first methode | پیشنهاد میشه از روش اول استفاده کنید
 ---
 
 ## ✨ Features | ویژگی‌ها
@@ -58,12 +58,69 @@ https://raw.githubusercontent.com/bridgerzan/v2ray-config/refs/heads/main/config
 
 ## 📅 آخرین آپدیت
 
-🗓️ `2025-07-01 12:00:24`
+🗓️ `2025-07-01 12:08:57`
 
 ## 🔍 کلمات (SEO)
 
 **فارسی:**  
-وی تو ری رایگان، کانفیگ v2ray، فیلترشکن بدون قطعی، vless سالم، لینک vmess پرسرعت، v2ray ایرانسل، بهترین وی‌پی‌ان برای بازی، hiddify همراه اول
+وی تو ری رایگان  
+وی تو ری برای ایران  
+کانفیگ v2ray تست شده  
+فیلترشکن بدون قطعی  
+کانفیگ vless سالم  
+لینک vmess پرسرعت  
+hiddify همراه اول  
+وی تو ری مخابرات  
+فیلترشکن مخصوص گیم  
+کانفیگ v2ray ایرانسل  
+فیلترشکن پابجی  
+کانفیگ v2ray قوی  
+سرور وی تو ری رایگان  
+v2ray ping پایین  
+وی تو ری برای موبایل  
+v2ray بدون قطعی  
+کانفیگ v2ray رایگان  
+v2ray با سرعت بالا  
+v2ray برای کلش  
+v2ray با رمزنگاری قوی  
+v2ray سالم برای ایران  
+hiddify تست شده  
+کانفیگ vless پرسرعت  
+فیلترشکن مخصوص موبایل  
+بهترین کانفیگ وی تو ری  
+کانفیگ v2ray سالم 2025  
+vpn رایگان وی تو ری  
+v2ray پروکسی تست شده  
+
 
 **English:**  
-free v2ray server, fast vless config, tested vmess config, low ping vpn, v2ray config for gaming, best v2ray 2025, hiddify working for iran, auto updated v2ray github
+v2ray config for iran  
+free v2ray server  
+tested vmess config  
+fast vless config  
+low ping v2ray  
+v2ray for gaming  
+clash hiddify config  
+best v2ray 2025  
+hiddify iran working  
+v2ray telecom iran  
+working v2ray configs github  
+auto updated v2ray config  
+v2ray ping checker  
+v2ray for iran user  
+best v2ray for mobile  
+free v2ray proxy  
+secure v2ray config  
+v2ray stable server  
+v2ray config list  
+v2ray fast connection  
+v2ray for pubg  
+v2ray gaming proxy  
+v2ray no lag  
+v2ray mobile config  
+v2ray 2025 config  
+v2ray free vpn  
+v2ray hiddify proxy  
+v2ray config github repo  
+v2ray config downloader  
+
