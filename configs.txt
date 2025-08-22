@@ -2,22 +2,3 @@
 #subscription-userinfo: upload=29; download=12; total=5073741820000000; expire=2546249531
 #support-url: https://github.com/bridgerzan/v2ray-config
 #profile-web-page-url: https://github.com/bridgerzan/v2ray-config
-{
- "outbounds": [
-  {
-   "type": "vless",
-   "tag": ":Premium § 0",
-   "server": "193.39.9.36",
-   "server_port": 25565,
-   "uuid": "1167b51a-80a9-4027-8cbf-f8d751b269ae",
-   "transport": {
-    "type": "http",
-    "host": "www.speedtest.net",
-    "path": "/",
-    "method": "GET"
-   },
-   "packet_encoding": "xudp"
-  }
- ]
-}
-
