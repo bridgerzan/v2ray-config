@@ -1,0 +1,18 @@
+{
+ "outbounds": [
+  {
+   "type": "vless",
+   "tag": ":Premium § 0",
+   "server": "193.39.9.36",
+   "server_port": 25565,
+   "uuid": "1167b51a-80a9-4027-8cbf-f8d751b269ae",
+   "transport": {
+    "type": "http",
+    "host": "www.speedtest.net",
+    "path": "/",
+    "method": "GET"
+   },
+   "packet_encoding": "xudp"
+  }
+ ]
+}
