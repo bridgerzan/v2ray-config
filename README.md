@@ -6,7 +6,7 @@
 🔄 این پروژه شامل کانفیگ‌های تست‌شده V2Ray با پینگ پایین، سرعت بالا و بروزرسانی روزانه است.
 
 ![Update](https://img.shields.io/badge/Updated-Daily-success?style=flat-square)
-![Configs](https://img.shields.io/badge/Configs-100%20Total-blue?style=flat-square)
+![Configs](https://img.shields.io/badge/Configs-93%20Total-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Stable-%E2%AD%90-green?style=flat-square)
 
 ---
@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/bridgerzan/v2ray-config/refs/heads/main/config
 - ✅ Daily updated configs | بروزرسانی دستی روزانه
 - 🧪 Fully tested VLESS / VMess / Hiddify links | تست کامل لینک‌ها
 - ⭐ Starred configs are **high quality and verified** | کانفیگ‌های دارای ⭐ کاملاً سالم و تست‌شده هستند
-- 🔢 Total configs: **100**
+- 🔢 Total configs: **93**
 - ⚡ Latency: 80ms - 400ms | پینگ بین 80 تا 400
 - 📦 Exportable to all clients | خروجی مناسب برای تمام کلاینت‌ها
 
@@ -58,7 +58,7 @@ https://raw.githubusercontent.com/bridgerzan/v2ray-config/refs/heads/main/config
 
 ## 📅 آخرین آپدیت
 
-🗓️ `2025-08-23 11:56:09`
+🗓️ `2025-08-23 23:44:32`
 
 ## 🔍 کلمات (SEO)
 
